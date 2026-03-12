@@ -1,0 +1,25 @@
+{
+  "name": "daily-problem-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreatKingdavid/Daily-Problem-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreatKingdavid/Daily-Problem-Tracker/issues"
+  },
+  "homepage": "https://github.com/GreatKingdavid/Daily-Problem-Tracker#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
